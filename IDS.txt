@@ -1,0 +1,7 @@
+Bifidobacterium_kashiwanohense
+Rhodococcus_opacus
+Rothia_mucilaginosa_DY18
+Staphylococcus_pseudintermedius
+Streptococcus_conjugative_element
+Streptococcus_salivarius_NCTC8618
+Tsakamurella_paurometabola
